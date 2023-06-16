@@ -1,6 +1,8 @@
 # Donasien App
 
-![Donasien](https://i.ibb.co/pJbsp2S/Cover-Donasien.png)
+<p align="center">
+  <img src="https://i.ibb.co/pJbsp2S/Cover-Donasien.png" width="100%">
+</p>
 
 ## Bangkit Capstone Project 2023
 
